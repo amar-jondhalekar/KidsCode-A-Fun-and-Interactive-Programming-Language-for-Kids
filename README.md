@@ -61,7 +61,7 @@ Just open `index.html` in your browser, and you are good to go!
 
 ## 🌍 Live Demo
 
-You can view a live demo of the project [https://amar-jondhalekar.github.io/KidsCode-A-Fun-and-Interactive-Programming-Language-for-Kids/](https://amar-jondhalekar.github.io/KidsCode-A-Fun-and-Interactive-Programming-Language-for-Kids/)(#).
+You can view a live demo of the project [https://amar-jondhalekar.github.io/KidsCode-A-Fun-and-Interactive-Programming-Language-for-Kids/](https://amar-jondhalekar.github.io/KidsCode-A-Fun-and-Interactive-Programming-Language-for-Kids/).
 
 ---
 
