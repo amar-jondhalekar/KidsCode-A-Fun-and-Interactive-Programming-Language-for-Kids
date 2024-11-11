@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kid's Programming Language</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Welcome to the Kid's Programming Language</h1>
+<p>Use the commands below to control the object on the screen!</p>
+
+<!-- Display commands to move and control the object -->
+<textarea id="code-input" rows="10" cols="40" placeholder="Enter your code here"></textarea><br><br>
+<button id="run-code">Run Code</button>
+<button id="theme-toggle">Toggle Dark/Light Mode</button>
+<!-- Canvas to visualize the object movement -->
+<canvas id="canvas" width="500" height="500"></canvas>
+
+<div id="instructions">
+  <h3>Commands</h3>
+  <ul>
+    <li><strong>move(n):</strong> Move the object n steps forward.</li>
+    <li><strong>turn(degrees):</strong> Turn the object by the specified degrees.</li>
+    <li><strong>repeat(n):</strong> Repeat the block of code n times.</li>
+  </ul>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
