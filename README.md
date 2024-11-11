@@ -107,10 +107,6 @@ If you like the project and find it useful, please ⭐️ this repository to sho
 
 Thanks for checking out **KidsCode**. Happy coding! 🚀
 
-```
-
----
-
 ### Explanation of Sections:
 
 1. **Project Description**: Gives users an idea of the project's purpose and target audience (kids).
@@ -123,4 +119,3 @@ Thanks for checking out **KidsCode**. Happy coding! 🚀
 8. **License**: Mentions the license type (MIT) to give users legal clarity.
 9. **Contact**: Includes your contact info for anyone who wants to reach out.
 10. **Call-to-Action**: Encourages users to give a ⭐️ to the project if they like it.
-```
